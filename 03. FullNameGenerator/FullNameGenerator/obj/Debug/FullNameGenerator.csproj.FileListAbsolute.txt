@@ -1,0 +1,7 @@
+D:\04. Proyectos\FullNameGenerator\FullNameGenerator\bin\Debug\FullNameGenerator.exe.config
+D:\04. Proyectos\FullNameGenerator\FullNameGenerator\bin\Debug\FullNameGenerator.exe
+D:\04. Proyectos\FullNameGenerator\FullNameGenerator\bin\Debug\FullNameGenerator.pdb
+D:\04. Proyectos\FullNameGenerator\FullNameGenerator\obj\Debug\FullNameGenerator.csprojAssemblyReference.cache
+D:\04. Proyectos\FullNameGenerator\FullNameGenerator\obj\Debug\FullNameGenerator.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\FullNameGenerator\FullNameGenerator\obj\Debug\FullNameGenerator.exe
+D:\04. Proyectos\FullNameGenerator\FullNameGenerator\obj\Debug\FullNameGenerator.pdb

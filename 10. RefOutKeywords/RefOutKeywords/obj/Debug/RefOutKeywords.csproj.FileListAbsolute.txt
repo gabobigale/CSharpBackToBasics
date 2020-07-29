@@ -1,0 +1,7 @@
+D:\04. Proyectos\RefOutKeywords\RefOutKeywords\bin\Debug\RefOutKeywords.exe.config
+D:\04. Proyectos\RefOutKeywords\RefOutKeywords\bin\Debug\RefOutKeywords.exe
+D:\04. Proyectos\RefOutKeywords\RefOutKeywords\bin\Debug\RefOutKeywords.pdb
+D:\04. Proyectos\RefOutKeywords\RefOutKeywords\obj\Debug\RefOutKeywords.csprojAssemblyReference.cache
+D:\04. Proyectos\RefOutKeywords\RefOutKeywords\obj\Debug\RefOutKeywords.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\RefOutKeywords\RefOutKeywords\obj\Debug\RefOutKeywords.exe
+D:\04. Proyectos\RefOutKeywords\RefOutKeywords\obj\Debug\RefOutKeywords.pdb

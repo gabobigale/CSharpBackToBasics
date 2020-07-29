@@ -1,0 +1,7 @@
+D:\04. Proyectos\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.exe.config
+D:\04. Proyectos\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.exe
+D:\04. Proyectos\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.pdb
+D:\04. Proyectos\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.csprojAssemblyReference.cache
+D:\04. Proyectos\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.exe
+D:\04. Proyectos\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.pdb

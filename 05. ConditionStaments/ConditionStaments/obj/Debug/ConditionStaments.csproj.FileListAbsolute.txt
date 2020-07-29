@@ -1,0 +1,7 @@
+D:\04. Proyectos\ConditionStaments\ConditionStaments\bin\Debug\ConditionStaments.exe.config
+D:\04. Proyectos\ConditionStaments\ConditionStaments\bin\Debug\ConditionStaments.exe
+D:\04. Proyectos\ConditionStaments\ConditionStaments\bin\Debug\ConditionStaments.pdb
+D:\04. Proyectos\ConditionStaments\ConditionStaments\obj\Debug\ConditionStaments.csprojAssemblyReference.cache
+D:\04. Proyectos\ConditionStaments\ConditionStaments\obj\Debug\ConditionStaments.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\ConditionStaments\ConditionStaments\obj\Debug\ConditionStaments.exe
+D:\04. Proyectos\ConditionStaments\ConditionStaments\obj\Debug\ConditionStaments.pdb

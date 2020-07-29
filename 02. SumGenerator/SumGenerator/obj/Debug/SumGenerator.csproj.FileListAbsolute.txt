@@ -1,0 +1,7 @@
+D:\04. Proyectos\SumGenerator\SumGenerator\bin\Debug\SumGenerator.exe.config
+D:\04. Proyectos\SumGenerator\SumGenerator\bin\Debug\SumGenerator.exe
+D:\04. Proyectos\SumGenerator\SumGenerator\bin\Debug\SumGenerator.pdb
+D:\04. Proyectos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.csprojAssemblyReference.cache
+D:\04. Proyectos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.exe
+D:\04. Proyectos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.pdb

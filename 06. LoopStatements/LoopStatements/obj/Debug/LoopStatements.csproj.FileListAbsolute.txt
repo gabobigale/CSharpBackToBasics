@@ -1,0 +1,7 @@
+D:\04. Proyectos\LoopStatements\LoopStatements\bin\Debug\LoopStatements.exe.config
+D:\04. Proyectos\LoopStatements\LoopStatements\bin\Debug\LoopStatements.exe
+D:\04. Proyectos\LoopStatements\LoopStatements\bin\Debug\LoopStatements.pdb
+D:\04. Proyectos\LoopStatements\LoopStatements\obj\Debug\LoopStatements.csprojAssemblyReference.cache
+D:\04. Proyectos\LoopStatements\LoopStatements\obj\Debug\LoopStatements.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\LoopStatements\LoopStatements\obj\Debug\LoopStatements.exe
+D:\04. Proyectos\LoopStatements\LoopStatements\obj\Debug\LoopStatements.pdb

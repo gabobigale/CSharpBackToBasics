@@ -1,0 +1,7 @@
+D:\04. Proyectos\Methods\Methods\bin\Debug\Methods.exe.config
+D:\04. Proyectos\Methods\Methods\bin\Debug\Methods.exe
+D:\04. Proyectos\Methods\Methods\bin\Debug\Methods.pdb
+D:\04. Proyectos\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+D:\04. Proyectos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\Methods\Methods\obj\Debug\Methods.exe
+D:\04. Proyectos\Methods\Methods\obj\Debug\Methods.pdb

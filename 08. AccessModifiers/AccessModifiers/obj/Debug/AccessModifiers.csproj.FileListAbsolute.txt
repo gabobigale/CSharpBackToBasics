@@ -1,0 +1,7 @@
+D:\04. Proyectos\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+D:\04. Proyectos\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+D:\04. Proyectos\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+D:\04. Proyectos\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache
+D:\04. Proyectos\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+D:\04. Proyectos\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb

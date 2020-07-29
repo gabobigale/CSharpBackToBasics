@@ -1,0 +1,7 @@
+D:\04. Proyectos\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+D:\04. Proyectos\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+D:\04. Proyectos\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+D:\04. Proyectos\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csprojAssemblyReference.cache
+D:\04. Proyectos\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+D:\04. Proyectos\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

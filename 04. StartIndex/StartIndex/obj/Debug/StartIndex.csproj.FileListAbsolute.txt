@@ -1,0 +1,7 @@
+D:\04. Proyectos\StartIndex\StartIndex\bin\Debug\StartIndex.exe.config
+D:\04. Proyectos\StartIndex\StartIndex\bin\Debug\StartIndex.exe
+D:\04. Proyectos\StartIndex\StartIndex\bin\Debug\StartIndex.pdb
+D:\04. Proyectos\StartIndex\StartIndex\obj\Debug\StartIndex.csprojAssemblyReference.cache
+D:\04. Proyectos\StartIndex\StartIndex\obj\Debug\StartIndex.csproj.CoreCompileInputs.cache
+D:\04. Proyectos\StartIndex\StartIndex\obj\Debug\StartIndex.exe
+D:\04. Proyectos\StartIndex\StartIndex\obj\Debug\StartIndex.pdb
